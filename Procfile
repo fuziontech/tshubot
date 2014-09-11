@@ -1,1 +1,1 @@
-web: start-hubot-irc.bash 
+web: sh start-hubot-irc.bash 
