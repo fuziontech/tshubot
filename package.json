@@ -25,7 +25,8 @@
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-irc": "~0.2.7",
     "hubot-business-cat": "~1.2.4",
-    "hubot-plusplus": "~1.1.5"
+    "hubot-plusplus": "~1.1.5",
+    "hubot-tell": "*"
   },
   "engines": {
     "node": ">= 0.8.x",
