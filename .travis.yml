@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - "stable"
+services:
+  - redis
+script:
+  - npm test
+  - echo "I don't do much"
