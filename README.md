@@ -1,7 +1,6 @@
 # Hubot
 
-.. image:: https://travis-ci.org/fuziontech/tshubot.svg?branch=master
-    :target: https://travis-ci.org/fuziontech/tshubot
+[![Build Status](https://travis-ci.org/fuziontech/tshubot.svg?branch=master)](https://travis-ci.org/fuziontech/tshubot)
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
 
