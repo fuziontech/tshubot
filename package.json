@@ -27,7 +27,8 @@
     "hubot-business-cat": "~1.2.4",
     "hubot-plusplus": "~1.1.5",
     "hubot-tell": "*",
-    "hubot-wikipedia": "*"
+    "hubot-wikipedia": "*",
+    "hubot-slack": "*"
   },
   "engines": {
     "node": ">= 0.8.x",
